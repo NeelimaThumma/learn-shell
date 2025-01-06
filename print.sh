@@ -5,7 +5,8 @@ echo -e "\e[COLmMessage\e[0m"
 
 COL Color
 
-red 31,green 32
+red 31,
+green 32
 yellow 33
 blue 34
 magenta 35
