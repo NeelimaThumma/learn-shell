@@ -20,4 +20,7 @@ git pull  -> does the same as fetch but also automatically merges the changes in
 git pull is essentially a shortcut that performs both a git fetch and a git merge. Instead of running two separate commands, I prefer to use:
 
 git pull origin main
+--------------
+git merge -> 
+git rebase ->
 
